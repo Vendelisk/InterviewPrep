@@ -1,0 +1,16 @@
+C:\Users\jkohn\Documents\Code\Leetcode\Valid Parentheses\bin\Debug\net5.0\Valid Parentheses.exe
+C:\Users\jkohn\Documents\Code\Leetcode\Valid Parentheses\bin\Debug\net5.0\Valid Parentheses.deps.json
+C:\Users\jkohn\Documents\Code\Leetcode\Valid Parentheses\bin\Debug\net5.0\Valid Parentheses.runtimeconfig.json
+C:\Users\jkohn\Documents\Code\Leetcode\Valid Parentheses\bin\Debug\net5.0\Valid Parentheses.runtimeconfig.dev.json
+C:\Users\jkohn\Documents\Code\Leetcode\Valid Parentheses\bin\Debug\net5.0\Valid Parentheses.dll
+C:\Users\jkohn\Documents\Code\Leetcode\Valid Parentheses\bin\Debug\net5.0\ref\Valid Parentheses.dll
+C:\Users\jkohn\Documents\Code\Leetcode\Valid Parentheses\bin\Debug\net5.0\Valid Parentheses.pdb
+C:\Users\jkohn\Documents\Code\Leetcode\Valid Parentheses\obj\Debug\net5.0\Valid Parentheses.csproj.AssemblyReference.cache
+C:\Users\jkohn\Documents\Code\Leetcode\Valid Parentheses\obj\Debug\net5.0\Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkohn\Documents\Code\Leetcode\Valid Parentheses\obj\Debug\net5.0\Valid Parentheses.AssemblyInfoInputs.cache
+C:\Users\jkohn\Documents\Code\Leetcode\Valid Parentheses\obj\Debug\net5.0\Valid Parentheses.AssemblyInfo.cs
+C:\Users\jkohn\Documents\Code\Leetcode\Valid Parentheses\obj\Debug\net5.0\Valid Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\jkohn\Documents\Code\Leetcode\Valid Parentheses\obj\Debug\net5.0\Valid Parentheses.dll
+C:\Users\jkohn\Documents\Code\Leetcode\Valid Parentheses\obj\Debug\net5.0\ref\Valid Parentheses.dll
+C:\Users\jkohn\Documents\Code\Leetcode\Valid Parentheses\obj\Debug\net5.0\Valid Parentheses.pdb
+C:\Users\jkohn\Documents\Code\Leetcode\Valid Parentheses\obj\Debug\net5.0\Valid Parentheses.genruntimeconfig.cache

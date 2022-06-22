@@ -1,0 +1,16 @@
+C:\Users\jkohn\Documents\Code\Leetcode\Shifted Sorted Array\obj\Debug\net5.0\Shifted Sorted Array.csproj.AssemblyReference.cache
+C:\Users\jkohn\Documents\Code\Leetcode\Shifted Sorted Array\obj\Debug\net5.0\Shifted Sorted Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkohn\Documents\Code\Leetcode\Shifted Sorted Array\obj\Debug\net5.0\Shifted Sorted Array.AssemblyInfoInputs.cache
+C:\Users\jkohn\Documents\Code\Leetcode\Shifted Sorted Array\obj\Debug\net5.0\Shifted Sorted Array.AssemblyInfo.cs
+C:\Users\jkohn\Documents\Code\Leetcode\Shifted Sorted Array\obj\Debug\net5.0\Shifted Sorted Array.csproj.CoreCompileInputs.cache
+C:\Users\jkohn\Documents\Code\Leetcode\Shifted Sorted Array\bin\Debug\net5.0\Shifted Sorted Array.exe
+C:\Users\jkohn\Documents\Code\Leetcode\Shifted Sorted Array\bin\Debug\net5.0\Shifted Sorted Array.deps.json
+C:\Users\jkohn\Documents\Code\Leetcode\Shifted Sorted Array\bin\Debug\net5.0\Shifted Sorted Array.runtimeconfig.json
+C:\Users\jkohn\Documents\Code\Leetcode\Shifted Sorted Array\bin\Debug\net5.0\Shifted Sorted Array.runtimeconfig.dev.json
+C:\Users\jkohn\Documents\Code\Leetcode\Shifted Sorted Array\bin\Debug\net5.0\Shifted Sorted Array.dll
+C:\Users\jkohn\Documents\Code\Leetcode\Shifted Sorted Array\bin\Debug\net5.0\ref\Shifted Sorted Array.dll
+C:\Users\jkohn\Documents\Code\Leetcode\Shifted Sorted Array\bin\Debug\net5.0\Shifted Sorted Array.pdb
+C:\Users\jkohn\Documents\Code\Leetcode\Shifted Sorted Array\obj\Debug\net5.0\Shifted Sorted Array.dll
+C:\Users\jkohn\Documents\Code\Leetcode\Shifted Sorted Array\obj\Debug\net5.0\ref\Shifted Sorted Array.dll
+C:\Users\jkohn\Documents\Code\Leetcode\Shifted Sorted Array\obj\Debug\net5.0\Shifted Sorted Array.pdb
+C:\Users\jkohn\Documents\Code\Leetcode\Shifted Sorted Array\obj\Debug\net5.0\Shifted Sorted Array.genruntimeconfig.cache

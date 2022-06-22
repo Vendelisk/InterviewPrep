@@ -1,0 +1,16 @@
+C:\Users\jkohn\Documents\Code\Leetcode\Combination Sum\obj\Debug\net5.0\Combination Sum.csproj.AssemblyReference.cache
+C:\Users\jkohn\Documents\Code\Leetcode\Combination Sum\obj\Debug\net5.0\Combination Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkohn\Documents\Code\Leetcode\Combination Sum\obj\Debug\net5.0\Combination Sum.AssemblyInfoInputs.cache
+C:\Users\jkohn\Documents\Code\Leetcode\Combination Sum\obj\Debug\net5.0\Combination Sum.AssemblyInfo.cs
+C:\Users\jkohn\Documents\Code\Leetcode\Combination Sum\obj\Debug\net5.0\Combination Sum.csproj.CoreCompileInputs.cache
+C:\Users\jkohn\Documents\Code\Leetcode\Combination Sum\bin\Debug\net5.0\Combination Sum.exe
+C:\Users\jkohn\Documents\Code\Leetcode\Combination Sum\bin\Debug\net5.0\Combination Sum.deps.json
+C:\Users\jkohn\Documents\Code\Leetcode\Combination Sum\bin\Debug\net5.0\Combination Sum.runtimeconfig.json
+C:\Users\jkohn\Documents\Code\Leetcode\Combination Sum\bin\Debug\net5.0\Combination Sum.runtimeconfig.dev.json
+C:\Users\jkohn\Documents\Code\Leetcode\Combination Sum\bin\Debug\net5.0\Combination Sum.dll
+C:\Users\jkohn\Documents\Code\Leetcode\Combination Sum\bin\Debug\net5.0\ref\Combination Sum.dll
+C:\Users\jkohn\Documents\Code\Leetcode\Combination Sum\bin\Debug\net5.0\Combination Sum.pdb
+C:\Users\jkohn\Documents\Code\Leetcode\Combination Sum\obj\Debug\net5.0\Combination Sum.dll
+C:\Users\jkohn\Documents\Code\Leetcode\Combination Sum\obj\Debug\net5.0\ref\Combination Sum.dll
+C:\Users\jkohn\Documents\Code\Leetcode\Combination Sum\obj\Debug\net5.0\Combination Sum.pdb
+C:\Users\jkohn\Documents\Code\Leetcode\Combination Sum\obj\Debug\net5.0\Combination Sum.genruntimeconfig.cache

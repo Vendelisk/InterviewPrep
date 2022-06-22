@@ -1,0 +1,16 @@
+C:\Users\jkohn\Documents\Code\Leetcode\RotateImage\obj\Debug\net5.0\RotateImage.csproj.AssemblyReference.cache
+C:\Users\jkohn\Documents\Code\Leetcode\RotateImage\obj\Debug\net5.0\RotateImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkohn\Documents\Code\Leetcode\RotateImage\obj\Debug\net5.0\RotateImage.AssemblyInfoInputs.cache
+C:\Users\jkohn\Documents\Code\Leetcode\RotateImage\obj\Debug\net5.0\RotateImage.AssemblyInfo.cs
+C:\Users\jkohn\Documents\Code\Leetcode\RotateImage\obj\Debug\net5.0\RotateImage.csproj.CoreCompileInputs.cache
+C:\Users\jkohn\Documents\Code\Leetcode\RotateImage\bin\Debug\net5.0\RotateImage.exe
+C:\Users\jkohn\Documents\Code\Leetcode\RotateImage\bin\Debug\net5.0\RotateImage.deps.json
+C:\Users\jkohn\Documents\Code\Leetcode\RotateImage\bin\Debug\net5.0\RotateImage.runtimeconfig.json
+C:\Users\jkohn\Documents\Code\Leetcode\RotateImage\bin\Debug\net5.0\RotateImage.runtimeconfig.dev.json
+C:\Users\jkohn\Documents\Code\Leetcode\RotateImage\bin\Debug\net5.0\RotateImage.dll
+C:\Users\jkohn\Documents\Code\Leetcode\RotateImage\bin\Debug\net5.0\ref\RotateImage.dll
+C:\Users\jkohn\Documents\Code\Leetcode\RotateImage\bin\Debug\net5.0\RotateImage.pdb
+C:\Users\jkohn\Documents\Code\Leetcode\RotateImage\obj\Debug\net5.0\RotateImage.dll
+C:\Users\jkohn\Documents\Code\Leetcode\RotateImage\obj\Debug\net5.0\ref\RotateImage.dll
+C:\Users\jkohn\Documents\Code\Leetcode\RotateImage\obj\Debug\net5.0\RotateImage.pdb
+C:\Users\jkohn\Documents\Code\Leetcode\RotateImage\obj\Debug\net5.0\RotateImage.genruntimeconfig.cache
